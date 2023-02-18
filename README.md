@@ -1,4 +1,4 @@
-# Happy_Sad
+# Happy-Sad
 
 ### Libraries: 
 - [Tensorflow - Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
